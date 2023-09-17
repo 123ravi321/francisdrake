@@ -1,0 +1,76 @@
+#title {
+    color: blue;
+    text-align: center;
+}
+body {
+    background: lightgoldenrodyellow;
+}
+.center-text {
+    text-align: center;
+}
+.info-button {
+    border: 10px;
+    border-radius: 10px;
+    border-color: black;
+}
+.about-button {
+    border: 10px;
+    border-radius: 10px;
+}
+.button {
+    border: 10px;
+    border-radius: 10px;
+    font-size: x-large;
+ }
+ .center-images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#info {
+    background-color: gold;
+    width: 50%;
+    height: 500px;
+    border: 20px gold ridge;
+    overflow: auto;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+            
+}
+#facts {
+    background-color: gold;
+    border: 10px gold ridge;
+    width: 20%;
+    height: 290px;
+    overflow: auto;
+    margin: 50px;
+    text-align: center;
+    padding: 10px;
+}
+#head {
+    background-color: aliceblue;
+    border: 5px blue ridge;
+    position: absolute;
+    top: 1200px;
+    left: 35%;
+}
+.list {
+    background-color: aliceblue;
+    border: 5px blue ridge;
+    
+    position: absolute;
+    top: 1250px;
+    left: 25%;
+}
+.aboutbtn {
+    
+    position: absolute;
+    top: 1450px;
+    left: 45%;
+}
